@@ -1,0 +1,18 @@
+lib/
+  main.dart
+  models/
+    user.dart
+    contest.dart
+    transaction.dart
+  services/
+    fake_data_service.dart
+  widgets/
+    contest_card.dart
+  screens/
+    login_screen.dart
+    home_screen.dart
+    lobby_screen.dart
+    contest_detail_screen.dart
+    wallet_screen.dart
+    friends_screen.dart
+    profile_screen.dart
